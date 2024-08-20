@@ -14,10 +14,7 @@ const perguntas = [
             },
             {
                 texto: "Prefiro começar a codificar logo e ajustar o plano conforme avanço.",
-                afirmacao: "Você se destaca pela <b>dinamismo</b>, gostando de aprender e ajustar durante o processo."
-            }
-        ]
-    },
+                afirmacao: 
     {
         enunciado: "Como você lida com problemas ou bugs no seu código?",
         alternativas: [
